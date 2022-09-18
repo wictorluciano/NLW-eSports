@@ -3,7 +3,7 @@
 
 <a href="https://wictorluciano.github.io/Calculadora-IMC/"><img src="./assets/readme.png" width="250px"></a>
 
-[🔗 Click here to acess] (https://wictorluciano.github.io/NLW-eSports/)
+[🔗 Click here to acess](https://wictorluciano.github.io/NLW-eSports/) 
 
 ## 💻 Technologies
 
