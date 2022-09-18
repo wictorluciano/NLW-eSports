@@ -1,7 +1,7 @@
 # NLW eSports
 <h3>Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.</h3>
 
-<a href="https://wictorluciano.github.io/Calculadora-IMC/"><img src="./assets/readme.png" width="250px"></a>
+<a href="https://wictorluciano.github.io/NLW-eSports/"><img src="./assets/readme.png" width="250px"></a>
 
 [🔗 Click here to acess](https://wictorluciano.github.io/NLW-eSports/) 
 
